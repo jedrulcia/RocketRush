@@ -1,4 +1,4 @@
-# 🚀 **RocketRush ** 🚀
+# 🚀 **RocketRush** 🚀
 A simple arcade game developed using **Unity 3D Engine**
 
 Try here: https://sharemygame.com/@jedrulcia/jedrulcia-rocket-game
